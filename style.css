@@ -1,0 +1,93 @@
+header
+{
+    background:cyan;
+    border-bottom: 1px dashed black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+h1
+{
+    color:red;
+    text-align: center;
+}
+
+ul
+{
+    display: block;
+    text-align: end;
+    margin-right: 5px;
+}
+
+li
+{
+    display: inline;
+    padding-left: 5px;
+}
+
+a
+{
+    text-decoration: none;
+    color: black; 
+}
+
+figcaption
+{
+    color:darkgrey;
+}
+
+a:visited
+{
+    color:brown;
+}
+
+a:hover
+{
+    color:green ;
+}
+
+footer
+{
+    background-color: cyan;
+    border-top: 1px dashed;
+    display: block;
+    text-align: center;    
+}
+
+footer>a,footer>p
+{
+    display: inline;
+    margin: 0 5px;
+}
+
+form
+{
+    text-align: center;
+}
+
+i
+{
+    color: red ;
+    margin-right: 10px;
+}
+
+input
+{
+    margin-bottom: 0.5%;
+    margin-top: 0.5%;
+}
+
+#button
+{
+    background-color:blue;
+    color: rgb( 0, 255, 0 ) ;
+    border-radius: 15px;
+}
+
+.champ
+{
+    height: 20px;
+    width: 15%;
+    border-radius: 15px; 
+    border-color:rgb(255, 0, 0) ;
+}
